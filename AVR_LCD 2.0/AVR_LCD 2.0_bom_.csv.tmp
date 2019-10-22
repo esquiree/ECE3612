@@ -1,0 +1,29 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,"Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x10_Odd_Even,BreakOut_EXT1 X-Plained_EXT1,Conn_02x10_Odd_Even,Pin_Header_Straight_2x10_Pitch2.54mm,2,~
+2,Unpolarized capacitor,C,C1 C2 C3,1uF,C_0805,3,~
+3,LED generic,LED,D1,LED,LED_0805,1,~
+4,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J5,Conn_01x02,JST_XH_B02B-XH-A_02x2.50mm_Straight,1,~
+5,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J1 J2 J4,Conn_01x04,Pin_Header_Straight_1x04_Pitch2.54mm,3,~
+6,"Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x02_Odd_Even,J3,Conn_02x02_Odd_Even,Pin_Header_Straight_2x02_Pitch2.54mm,1,~
+7,Resistor,R,R2 R3,10K,R_0805,2,~
+8,Resistor,R,R1 R4,1K,R_0805,2,~
+9,,ALS31313,U4,ALS31313,TSSOP-8_4.4x3mm_Pitch0.65mm,1,
+10,,I2C_LCD,U2,I2C_LCD,SSD1306,1,
+11,,JOYSTICK_JS5208,U5,JOYSTICK_JS5208,JS5208,1,
+12,"I2C/SPI, iNEMO inertial module: always-on 3D accelerometer and 3D gyroscope",LSM6DS3,U1,LSM6DS3,Bosch_LGA-14_3x2.5mm_Pitch0.5mm,1,www.st.com/resource/en/datasheet/lsm6ds3.pdf
+13,,TMP75,U3,TMP75,"8-TSSOP (1.27mm PITCH, 5.4mm WIDTH)",1,
+
+
+
+
+
+Component Groups:,13
+Component Count:,20
+Fitted Components:,20
+Number of PCBs:,1
+Total components:,20
+Schematic Version:,
+Schematic Date:,
+BoM Date:,1/25/2019 21:08:33
+Schematic Source:,C:\Users\Reed\Documents\Doc H LCD\AVR_LCD 2.0\AVR_LCD 2.0.sch
+KiCad Version:,Eeschema (5.0.0)

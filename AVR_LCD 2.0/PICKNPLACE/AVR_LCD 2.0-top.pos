@@ -1,0 +1,16 @@
+### Module positions - created on 10/02/19 20:03:56 ###
+### Printed by Pcbnew version kicad (5.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                               PosX       PosY       Rot  Side
+C1        1uF       C_0805                            100.0340   -91.1495    0.0000  top
+C2        1uF       C_0805                             68.5532   -94.1380  180.0000  top
+C3        1uF       C_0805                            111.9240   -98.2070  180.0000  top
+D1        LED       LED_0805                          100.2250   -80.4640    0.0000  top
+R2        1K       R_0805                            100.2430   -72.5900  180.0000  top
+R3        1K       R_0805                            100.2430   -75.1300  180.0000  top
+R4        1K        R_0805                            100.2430   -77.7970  180.0000  top
+U1        LSM6DS3   Bosch_LGA-14_3x2.5mm_Pitch0.5mm   100.0420   -87.0735    0.0000  top
+U3        TMP75     VSSOP-8_3.0x3.0mm_Pitch0.65mm      68.5422   -90.7100    0.0000  top
+U4        ALS31313  TSSOP-8_4.4x3mm_Pitch0.65mm       112.0670  -103.5410  270.0000  top
+## End
